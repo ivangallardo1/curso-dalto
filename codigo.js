@@ -1,4 +1,4 @@
-var nombre = "Camila";
+var nombre = "Pepe";
 var apellido = "Gallardo";
 
 var saludo = `Hola ${nombre} ${apellido}. Como estás?`
